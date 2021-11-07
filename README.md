@@ -36,6 +36,10 @@ GCP Bucket storage after the api uploads the bunch of images and after the model
 
 ![alt text](https://github.com/srirammura/Real-VR/blob/main/Screen%20Shot%202021-11-07%20at%209.44.42%20AM.png)
 
+After fetching multiple AR models and when compared :
+
+![alt text](https://github.com/srirammura/Real-VR/blob/main/Car%20comparion%20AR.jpeg)
+
 ## What we learned
 
 3D modelling, AR Creation and manipulation, Using GCP to create a clean infrastructure and integrate different elements through cloud,Time Management and Team working
