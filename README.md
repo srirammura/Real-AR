@@ -9,6 +9,8 @@ Google Cloud Platform and python server are used for interaction between mobile 
 
 We use google cloud platform app engine and google bucket storage to create api's and store blob data. The GCP api code is available at '/Hackathon Backend'
 
+The APIs serve the data to and from the inbetween components of the infrastructure
+
 ![alt text](https://github.com/srirammura/Real-VR/blob/main/Real%20VR%20infrastructure.jpeg)
 ## Challenges we ran into
 Running Graphics Intensive Computation of 2D images into 3D models, and creating Interactive Augmented 3d objects 
