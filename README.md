@@ -16,6 +16,8 @@ The APIs serve the data to and from the inbetween components of the infrastructu
 Running Graphics Intensive Computation of 2D images into 3D models, and creating Interactive Augmented 3d objects 
 ## Accomplishments that we're proud of
 
+GCP Bucket storage after the api uploads the bunch of images and after the model (.ucdz) is stored as blob
+![alt text](https://github.com/srirammura/Real-VR/blob/main/Screen%20Shot%202021-11-07%20at%209.44.42%20AM.png)
 ## What we learned
 
 ## What's next for RealAR
