@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "3d6ef27e37375da0fbded8e3df9d8709",
+    "format" : "model",
+    "displayName" : "carmodel.usdz"
+  },
+  {
+    "libraryIdentifier" : "2c897d4ec7d2a7f0ce9a95bada453bee",
+    "format" : "model",
+    "displayName" : "Sprite.usdz"
+  },
+  {
+    "libraryIdentifier" : "02297ff45c751eec1666174b917366cb",
+    "format" : "model",
+    "displayName" : "Sriram.usdz"
+  },
+  {
+    "libraryIdentifier" : "ae73d71d4a13d82cb623777e8ead6c47",
+    "format" : "model",
+    "displayName" : "Bag.usdz"
+  }
+]
